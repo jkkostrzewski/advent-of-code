@@ -2,7 +2,6 @@ package org.jkkostrzewski.year2015.day3;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
