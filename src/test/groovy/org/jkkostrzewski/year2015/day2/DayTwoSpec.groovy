@@ -25,5 +25,4 @@ class DayTwoSpec extends Specification {
         "2x3x4"  | 34
         "1x1x10" | 14
     }
-
 }
