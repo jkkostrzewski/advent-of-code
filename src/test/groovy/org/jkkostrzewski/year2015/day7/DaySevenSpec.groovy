@@ -47,7 +47,7 @@ class DaySevenSpec extends Specification {
         "y"   | 456
     }
 
-    def "partTwoSpec"(String input, boolean output) {
-        //same
+    def "partTwoSpec"() {
+        //Same code as partOne with different input
     }
 }
